@@ -1,0 +1,468 @@
+
+@import url("https://fonts.googleapis.com/css2?family=Work+Sans:ital,wght@0,100..900;1,100..900&display=swap");
+*{
+font-family: "Work Sans", sans-serif;
+}
+.gamer{
+    color: rgb(255, 94, 196);
+}
+.zone{
+    display: flex;
+    gap: 20px;
+}
+.Developers ul{
+    display: flex;
+    list-style: none;
+    align-items: center;
+}
+.Developers li{
+    margin: 20px;
+    text-decoration: none;
+}
+.Follow{
+    background-color: rgba(248, 231, 231, 0.529);
+    border: none;
+    display: flex;
+    padding: 20px;
+    margin: 20px;
+    height: 30px;
+    width: 150px;
+    font-size: 15px;
+    align-items: center;
+}
+.Follow img{
+    width: 43px;
+    height: 57px;
+}
+.Developers .btn-primary{
+    border: none;
+}
+.first-header{
+    display: flex;
+    justify-content: space-around;
+    background-color: white;
+    box-shadow: 3px 3px 2px;
+    align-items: center;
+}
+.zone img{
+    height: 60px;
+    width: 100px;
+}
+.play-like{
+    font-size: 40px;
+    font-weight: 30px;
+}
+.goal{
+    font-size: 70px;
+    font-weight: 60px;
+    color: rgb(200 49 162);
+}
+.click{
+    list-style: none;
+}
+.Developers{
+
+}
+.btn-2nd{
+    background-color: rgb(277, 70, 123);
+    border: none;
+    height: 61px;
+    width: 130px;
+    border-radius: 130px;
+    font-size: 20px;
+}
+.btn-2nd-2{
+    background-color: aqua;
+    border: none;
+    height: 61px;
+    width: 130px;
+    border-radius: 130px;
+    font-size: 20px;
+}
+.goal-tim{
+    height: 533px;
+    width: 900;
+    margin-left: 150;
+    margin-right: 150;
+    padding: 150px;
+    margin: 50px;
+}
+.header-container{
+    display: flex;
+    background-color: rgb(250 247 243);
+}
+.header-container img{
+    height: 500px;
+    width: 500px;
+    margin-right: 100px;
+    gap: 500px;
+    padding: 100px;
+    margin: 50px;
+    margin-top: 0px;
+    
+}
+/* main class start */
+.btn-2nd-part{
+    height: 65px;
+    width: 130px;
+    background-color: rgb(277, 70, 123);
+    border: none;
+    border-radius: 20px;
+    font-size: 20px;
+    margin-left: 340px;
+}
+.game-part2{
+    color: rgb(210, 5, 210);
+    font-style: bold;
+    font-size: 40px;
+    margin-left: 200px;
+}
+.digital{
+    font-size: 15px;
+    color: black;
+}
+.purpose{
+    font-size: 20px;
+    margin-left: 340px;
+}
+.unleash{
+    font-size: 30px;
+    font-weight: 20px;
+}
+.gamar-container{
+    display: flex;
+}
+.gamar-container img{
+
+}
+.digital{
+    text-align: right;
+}
+.gamar-controler{
+    background-color: rgb(250 247 243);
+}
+/* nav bar start */
+.online{
+    font-style: bold;
+    font-size: 30px;
+    text-align: center;
+}
+.color{
+    color: rgb(255, 10, 255);
+}
+.collection{
+    font-size: 10px;
+    text-align: center;
+}
+.image-video{
+    display: flex;
+    gap: 20px;
+    margin: 100px;
+}
+.image-video img{
+    height: 250px;
+    width: 300px;
+}
+.image-section{
+    display: flex;
+}
+/* section class start */
+.play{
+    font-size: 40px;
+    font-style: bold;
+    color: rgb(244, 7, 244);
+    margin-right: 40px; 
+    padding: 150px;
+    margin: 50px;
+}
+.no{
+    font-size: 50px;
+    color: black;
+    font-style: bold;
+    padding: 150px;
+    margin: 50px;
+}
+.no1{
+    font-size: 50px;
+    color: black;
+    font-style: bold;
+    padding: 150px;
+    margin: 50px;
+}
+.Ins{
+    font-size: 50px;
+    color: black;
+    font-style: bold;
+    padding: 150px;
+    margin: 50px;
+    margin-right: 50px;
+}
+.p1{
+    font-style: bold;
+    padding: 300px;  
+    margin-right: 50px;
+    text-align: right 300px;
+}
+.play-instantly{
+
+}
+.play-container{
+    display: flex;
+    
+}
+.Rectangle-66{
+    margin-right: 80px;
+}
+.Rectangle-66 img{
+    position: absolute;
+    margin-top: 365px;
+    height: 190px;
+    width: 200px;
+    margin-right: 90px;
+}
+.Rectangle-55 img{
+    z-index: 30px;
+    margin-top: -6px;
+    height: 550px;
+    width: 420px;
+}
+/* section2 starts */
+.Rectangle78{
+    position: absolute;
+    margin-top: 500px;
+    height: 365px;
+    width: 318px;
+    margin-left: 600px;
+}
+.Rectangle67{
+    z-index: 30px;
+    margin-top: -6px;
+    height: 650px;
+    width: 710px;
+    margin: 40px;
+    padding: 80px;
+}
+.play-container1{
+    display: flex;
+    text-align: center;
+    background-color: aliceblue;
+
+}
+.p2{
+    text-align: left 300px;
+    
+}
+/* main1 start */
+.line7{
+    display: flex;
+    gap: 50px;
+}
+.line8{
+    padding: 13px;
+}
+.btn1{
+    border-radius: 30px;
+    height: 45px;
+    width: 200px;
+    color: rgb(234, 6, 181);
+    background-color:white;
+    font-weight: bold;
+    border-radius: none; 
+}
+.pink1{
+    background-image: url(images/Group\ 65.png);
+    background-repeat: no-repeat;
+    background-color: deeppink;
+    width: 2300;
+    margin: 30px;
+    color: white;
+    background-position: right;
+    height: 700px;  
+}
+.linee{
+    display: flex;
+    gap: 50px;
+    padding: 20px;
+    margin: 20px;
+}
+.btn1{
+    margin-bottom: 100px;
+    margin: 50px;
+}
+/* section4 start */
+.l1 {
+    font-style: bold;
+    color: black;
+    gap: 100px;
+    text-align: center;
+
+}
+.img9{
+    justify-content: space-around;
+    padding: 130px;
+    margin: 30px;
+    grid-template-columns: repeat(4,1fr);
+    gap: 120px;
+    align-items: center;
+}
+/* footer section start */
+
+.zone2{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+
+}
+.zone2 img{
+    height: 60px;
+    width: 100px;
+}
+.first-header6{
+    background-color: black;
+    height: 450px;
+    width: 2000px;
+    align-items: center;
+    padding: 80px;
+    
+}
+.amr{
+    color: white;
+}
+.gamer3{
+    color: deeppink;
+}
+.line9{
+    color: white;
+    font-size: 15px;
+    font-weight: 60px;
+    gap: 50px;
+}
+.li4{
+    gap: 50px;
+}
+.fb2{
+    display: flex;
+    gap: 50px;
+}
+.terms{
+    color: white;
+    gap: 100px;
+    font-size: 12px;
+    text-align: center right 50px;
+}
+.last{
+    color: white;
+    font-size: 10px;
+}
+.last1{
+    font-size: 10px;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* mobile responsive */
+@media screen and (max-width:576px) {
+
+
+    .first-header, .Developers ul{
+        flex-direction: column;
+    }
+    .zone img{
+        width: 157px;
+        height: 115px;
+    }
+    .zone{
+        width: 342px;
+    }
+    .gamer-control{
+        font-size: 51px;
+    }
+    .Developers{
+        font-size: 37px;
+        margin-left: 175px;
+    }
+.header-container{
+    flex-direction: column;
+    width: 1356px;
+}
+.play-like{
+    font-size: 93px;
+}
+.goal{
+    font-size: 106px;
+}
+.Click{
+    font-size: 48px;
+}
+.goal-tim{
+    height: 906px;
+}
+.btn-2nd{
+    height: 110px;
+    width: 240px;
+    font-size: 52px;
+}
+.btn-2nd-2{
+    height: 110px;
+    width: 248px;
+    font-size: 51px;
+}
+.header-container img{
+    height: 795px;
+    width: 1064px;
+}
+}
+/* 2nd part */
+.game-part2{
+    font-size: 40px;
+    font-weight: 30px;
+    color: rgb(209 49 209);
+    margin-left: 200px;
+}
+.purpose{
+    font-size: 20px;
+    margin-left: 340px;
+}
+.unleash{
+    font-size: 30px;
+    font-weight: 20px;
+}
+.gamar-container{
+    display: flex;
+}
+
+
+
+
+
+/* medium devices */
+ @media screen and (min-width:576px) and (max-width:992px) {
+
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
